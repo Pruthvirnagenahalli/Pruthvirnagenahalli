@@ -1,4 +1,4 @@
-#                     Hi, I'm Pruthveesh R Nagenahalli
+# Hi, I'm Pruthveesh R Nagenahalli
 Working on Titan Guard ( a security project )<br>Open to collaborating on cybersecurity and full stack projects<br>Need help with system security and threat protection<br>Learning Machine Learning and cybersecurity<br>Ask me about MERN stack and Java<br>Fun fact : I love building security tools<br>
 
 
@@ -14,9 +14,6 @@ Working on Titan Guard ( a security project )<br>Open to collaborating on cybers
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pruthvirnagenahalli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pruthvirnagenahalli&limit=5&theme=dark&combine_all_yearly_contributions=true)
