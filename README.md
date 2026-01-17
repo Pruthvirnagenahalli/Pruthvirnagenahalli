@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Pruthveesh R Nagenahalli
+#                     Hi, I'm Pruthveesh R Nagenahalli
 Working on Titan Guard ( a security project )<br>Open to collaborating on cybersecurity and full stack projects<br>Need help with system security and threat protection<br>Learning Machine Learning and cybersecurity<br>Ask me about MERN stack and Java<br>Fun fact : I love building security tools<br>
 
 
